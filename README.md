@@ -6,6 +6,6 @@
 * Tensorflow Keras model working at the backend to classify the gesture in a real-time capture window. 
 * The predicted message will be displayed on the top of the same capture window.
 
-# Main : To create training data of basic gestures/actions of mutism.
+> Main : To create training data of basic gestures/actions of mutism.
 
-# Test : To demonstrate outcome in real-time capture window.
+> Test : To demonstrate outcome in real-time capture window.
